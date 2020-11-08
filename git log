@@ -1,0 +1,59 @@
+[33mcommit 7a1dcdb80f00a0a6af91fa0e3f99f06641ac327b[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Milan Patel <milan.marakana7@gmail.com>
+Date:   Sun Nov 8 00:17:39 2020 +0100
+
+    completed implementation of button and orderSummary
+
+[33mcommit 22361034ec3b88aaa29259cec3391d8203ce4497[m[33m ([m[1;31mreact-burger/master[m[33m)[m
+Author: Milan Patel <milan.marakana7@gmail.com>
+Date:   Thu Jun 25 01:55:19 2020 +0200
+
+    Start Order Button and styled
+
+[33mcommit 000c36b55feb1ad9b8e498eceb5bcaee8b0903db[m
+Author: Milan Patel <milan.marakana7@gmail.com>
+Date:   Sun Jun 21 22:10:00 2020 +0200
+
+    Complete add and remove ingredients in build controls
+
+[33mcommit 5f41aff726ba7913c37462fc29591cfd4f7c6c75[m
+Author: Milan Patel <milan.marakana7@gmail.com>
+Date:   Sun Jun 21 00:50:40 2020 +0200
+
+    Start to Implement burger builder part
+
+[33mcommit 24a656ba90641d3039b4f2218da2325dffd26ac6[m
+Author: Milan Patel <milan.marakana7@gmail.com>
+Date:   Fri Jun 19 23:05:58 2020 +0200
+
+    Complete burger ingredients dynamically not by user
+
+[33mcommit 44f6dbf6858615b423a69deb6e674e33d9e6d8fc[m
+Author: Milan Patel <milan.marakana7@gmail.com>
+Date:   Fri Jun 19 21:42:13 2020 +0200
+
+    Update Burger component and style too
+
+[33mcommit b88c08dc4a8101efccf71c9eee2d7c57cdf26f31[m
+Author: Milan Patel <milan.marakana7@gmail.com>
+Date:   Fri Jun 19 21:14:38 2020 +0200
+
+    Add Burgeringredient and style that
+
+[33mcommit 68fee81901db18662cbd8bfc5d671dffdccbcc54[m
+Author: Milan Patel <milan.marakana7@gmail.com>
+Date:   Fri Jun 19 19:36:30 2020 +0200
+
+    Update container and apply style to App
+
+[33mcommit 8cd09ab4c678049d303d665d8808e04f25cafced[m
+Author: Milan Patel <milan.marakana7@gmail.com>
+Date:   Fri Jun 19 19:19:23 2020 +0200
+
+    Apply Layout and basic style to App
+
+[33mcommit c055a55e16209aeb2842559fb88ac74a3ecb17e5[m
+Author: Milan Patel <milan.marakana7@gmail.com>
+Date:   Fri Jun 19 18:39:48 2020 +0200
+
+    initialization of burger project
