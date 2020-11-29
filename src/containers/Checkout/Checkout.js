@@ -34,11 +34,6 @@ class Checkout extends Component {
             component={ContactData}
           />
         </div>
-      );
-    }
-    return summary;
-  }
-}
 
 const mapStateToProps = (state) => {
   return {
